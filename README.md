@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jimuel Jarina</h1>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Jimuel Jarina! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
 <h3 align="center">Aspiring as UI/UX Design or Quality Assurance</h3>
 
 - 📫 How to reach me **jimueljarina@gmail.com**
