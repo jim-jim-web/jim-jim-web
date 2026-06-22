@@ -1,10 +1,27 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Jimuel Jarina! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 </div>
-<h3 align="center">Aspiring as UI/UX Design or Quality Assurance</h3>
+
+I am a 3rd-year **Information Systems** student currently exploring paths in **UI/UX Design** and **Quality Assurance**. I love combining technology with creativity to build user-friendly experiences.
+
+---
+
+### 🎨 About Me
+* 📚 Studying BS in Information Systems (3rd Year)
+* 🏐 Love playing volleyball and basketball
+* 💃 Enjoy dancing and anything related to art
+* 🎬 Fan of anime, movies, and K-dramas
+* 🎪 Experienced in event production
+
+---
+
+### 🛠️ Tech
+* **Development:** HTML, CSS, JavaScript
+
+---
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ3ZzZmemNzZTZya3ltbTZ2cnJkcXl1NmZ6MXBpZXJqMWQ5b2V5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3mJT1BDpTkrYGChS4u/giphy.gif" width="300">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ3ZzZmemNzZTZya3ltbTZ2cnJkcXl1NmZ6MXBpZXJqMWQ5b2V5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3mJT1BDpTkrYGChS4u/giphy.gif" width="250">
 </div>
 
 - 📫 How to reach me **jimueljarina@gmail.com**
