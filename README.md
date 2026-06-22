@@ -3,6 +3,10 @@
 </div>
 <h3 align="center">Aspiring as UI/UX Design or Quality Assurance</h3>
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ3ZzZmemNzZTZya3ltbTZ2cnJkcXl1NmZ6MXBpZXJqMWQ5b2V5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3mJT1BDpTkrYGChS4u/giphy.gif" width="300">
+</div>
+
 - 📫 How to reach me **jimueljarina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
